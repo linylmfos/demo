@@ -26,7 +26,7 @@
         .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {color: #fff;background-color: #83d944;}
         .navbar-inverse { background-color: #008b8b; border-color: #080808;}
         .navbar-nav > li:hover{  background-color: #83d944 }
-        .row7{overflow: hidden;}
+        .row8{overflow: hidden;}
         .projects{ text-align: center;margin: 20px auto;}
         .projects div{font-weight: bold;}
         hr{margin-top: 10px;border-top: 1px solid #000000;}
@@ -96,21 +96,24 @@
             <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://holylinden.site/drag/" target="_blank">23.鼠标拖拽效果</a></div>
             <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://holylinden.site/aside4/" target="_blank">24.侧栏工具条</a></div>
         </div>
-        <div class="row7 clear">
+        <div class="row7">
             <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://holylinden.site/magnifier/" target="_blank">25.放大镜效果</a></div>
             <div class="col-md-3 col-sm-6 col-xs-12"><a href=" http://holylinden.site/shopcart" target="_blank">26.购物车特效</a></div>
             <div class="col-md-3 col-sm-6 col-xs-12"><a href=" http://holylinden.site/layout/" target="_blank">27.常用网站布局demo</a></div>
             <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://linden.site/wordpress/" target="_blank">28.个人博客</a></div>
         </div>
+		<div class="row8 clear">
+            <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://holylinden.site/validate_plugin/" target="_blank">29.validaton plugin的使用</a></div>
+        </div>
         <div class="projects">
             <div>项目---响应式网站</div>
         </div>
         <hr/>
-        <div class="row8">
-            <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://linden.site/h5web/index.html">29.数据总结报告</a></div>
-            <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://linden.site/h5web/index.html">30.金融理财网站</a></div>
-            <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://linden.site/news/index.html#/?_k=122my1" target="_blank">31.React框架新闻网(学习react)</a></div>
-            <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://linden.site/dist/view/" target="_blank">32.电商网站</a></div>
+        <div class="row9">
+            <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://linden.site/h5web/index.html">30.数据总结报告</a></div>
+            <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://linden.site/h5web/index.html">31.金融理财网站</a></div>
+            <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://linden.site/news/index.html#/?_k=122my1" target="_blank">32.React框架新闻网(学习react)</a></div>
+            <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://linden.site/dist/view/" target="_blank">33.电商网站</a></div>
         </div>
     </div>
 </div>
