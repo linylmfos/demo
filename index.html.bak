@@ -102,18 +102,19 @@
             <div class="col-md-3 col-sm-6 col-xs-12"><a href=" http://holylinden.site/layout/" target="_blank">27.常用网站布局demo</a></div>
             <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://linden.site/wordpress/" target="_blank">28.个人博客</a></div>
         </div>
-		<div class="row8 clear">
+	<div class="row8 clear">
             <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://holylinden.site/validate_plugin/" target="_blank">29.validaton plugin的使用</a></div>
+	    <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://linden.site/h5web" target="_blank">30.H5可视化数据报告</a></div>
         </div>
         <div class="projects">
             <div>项目---响应式网站</div>
         </div>
         <hr/>
         <div class="row9">
-            <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://linden.site/h5web/index.html">30.数据总结报告</a></div>
-            <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://linden.site/h5web/index.html">31.金融理财网站</a></div>
-            <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://linden.site/news/index.html#/?_k=122my1" target="_blank">32.React框架新闻网(学习react)</a></div>
-            <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://linden.site/dist/view/" target="_blank">33.电商网站</a></div>
+            <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://linden.site/h5web/index.html">31.数据总结报告</a></div>
+            <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://linden.site/h5web/index.html">32.金融理财网站</a></div>
+            <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://linden.site/news/index.html#/?_k=122my1" target="_blank">33.React框架新闻网(学习react)</a></div>
+            <div class="col-md-3 col-sm-6 col-xs-12"><a href="http://linden.site/dist/view/" target="_blank">34.电商网站</a></div>
         </div>
     </div>
 </div>
